@@ -1,0 +1,27 @@
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (si en futuro usas herramientas de build)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Ambiente
+.env
+.env.local
+
+# Caché
+*.cache
+.cache/
+
+# Build artifacts (si usas bundlers)
+dist/
+build/
