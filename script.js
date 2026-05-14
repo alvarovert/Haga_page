@@ -92,7 +92,7 @@ function showDownloadNotification(platform) {
     // Simular inicio de descarga (reemplazar con URL real)
     setTimeout(() => {
         console.log(`Iniciando descarga para ${platform}`);
-        // window.location.href = 'TU_URL_DE_DESCARGA_AQUI';
+        window.location.href = 'https://github.com/alvarovert/Haga_page/releases/download/v1.0.3/Haba.Setup.1.0.3.exe';
     }, 500);
 
     // Remover notificación
